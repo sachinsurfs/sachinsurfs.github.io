@@ -3,7 +3,7 @@ layout: post
 title:  "Let's simulate a cricket match!"
 description: A project to predict the results of a match given any set of players on either teams with a little help from Web Scrapers, Big Data and Probability
 date:   2016-09-13 10:50:00 +0530
-categories: design
+categories: project
 author: sachin
 ---
 
