@@ -28,5 +28,6 @@ We can patch the problem of missing data in the previous method by finding a pat
 
 I achieved this by clustering all players to buckets of 10 (I will post another article on how I used [Apache Mahout](https://mahout.apache.org/) to do this clustering)
 
+You can check out my code [here](https://github.com/sachinsurfs/cricket-match-simulation)
 
 
